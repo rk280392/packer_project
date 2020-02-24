@@ -1,0 +1,3 @@
+node_modules
+my-terraform/provider.tf
+my-terraform/.terraform/
